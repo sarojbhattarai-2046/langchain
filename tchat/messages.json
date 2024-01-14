@@ -1,0 +1,40 @@
+[
+  {
+    "type": "human",
+    "data": {
+      "content": "what is 1+1?",
+      "additional_kwargs": {},
+      "type": "human",
+      "example": false
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "1 + 1 equals 2.",
+      "additional_kwargs": {},
+      "type": "ai",
+      "example": false
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "2 more?",
+      "additional_kwargs": {},
+      "type": "human",
+      "example": false
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "If you add 2 more to 2, the result would be 4.",
+      "additional_kwargs": {},
+      "type": "ai",
+      "example": false
+    }
+  }
+]
+
+// Shift+Option+F
